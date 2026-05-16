@@ -29,19 +29,21 @@ The dataset used in this project is the Financial Access in East Africa dataset,
 The dataset contains socio-economic and demographic information used to analyze financial inclusion and access to bank accounts in East Africa.
 Download the dataset from Kaggle [download here the dataset](https://www.kaggle.com/datasets/sarahmabrouk/financial-inclusion-in-africa)
 
-### 4️⃣ Variables / Dataset Features:
+### 4️⃣ Variables / Dataset Features
 
-- Country
-- Age of respondent
-- Gender of respondent
-- Marital status
-- Education level
-- Job type
-- Location type (Urban/Rural)
-- Cell phone access
-- Relationship with head of household
-- Year
-- Unique ID
+| Variable | Description |
+|---|---|
+| Country | Country of the respondent |
+| Age of respondent | Respondent's age |
+| Gender of respondent | Male/Female |
+| Marital status | Current marital status |
+| Education level | Highest education attained |
+| Job type | Employment category |
+| Location type (Urban/Rural) | Residential area classification |
+| Cell phone access | Whether the respondent owns/accesses a phone |
+| Relationship with head of household | Family relationship status |
+| Year | Year of data collection |
+| Unique ID | Identifier for each respondent |
 
 
 ### 5️⃣ Tools Used
