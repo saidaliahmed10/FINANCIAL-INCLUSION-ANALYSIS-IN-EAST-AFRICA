@@ -76,6 +76,22 @@ The category "Other/Dont know/RTA" was also removed because it did not provide m
 
 ### 8️⃣ Exploratory Data Analysis (EDA)
 
+#### 1. Bank Account Distribution and Percentage 
+
+| Bank Account Status | Count | Percentage (%) |
+| :--- | :---: | :---: |
+| **No** | 20,058 | 85.89% |
+| **Yes** | 3,296 | 14.11% |
+| **Total** | **23,354** | **100.00%** |
+
+Out of 23,354 total individuals in the dataset, **85.89%** (20,058 individuals) do not have a bank account, 
+while the remaining **14.11%** (3,296 individuals) do.
+
+
+#### 1.3  Visualization of Bank Account Ownership
+
+
+
 
 
 
