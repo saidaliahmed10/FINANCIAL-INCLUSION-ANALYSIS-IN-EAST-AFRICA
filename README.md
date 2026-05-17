@@ -88,11 +88,50 @@ Out of 23,354 total individuals in the dataset, **85.89%** (20,058 individuals) 
 while the remaining **14.11%** (3,296 individuals) do.
 
 
-#### 1.3  Visualization of Bank Account Ownership
+#### 1.3 Bank Account Ownership
+
+![Bank Account Ownership Distribution](https://github.com/user-attachments/assets/719b8874-df7b-4dfa-8297-6d37fed6b9dc)
+
+
+#### 1.3  Visualization of Bank Account Ownership by Country 
+
+![Bank Account Ownership Distribution](https://github.com/user-attachments/assets/a09bd820-e0fc-4161-96fe-4d61f1e951f2)
+#### Key Observations:
+* **Overall Trend:** Across all four countries, the number of individuals without a bank account ("No") heavily outnumbers those with a bank account ("Yes").
+* **Highest Account Ownership:** **Kenya** shows the highest volume of individuals with a bank account (around 1,500), showing the narrowest gap between the two categories among the countries surveyed.
+* **Lowest Account Ownership:** **Uganda** contains the smallest overall sample in this visualization, with the lowest number of banked individuals.
+* **Largest Unbanked Population:** **Rwanda** exhibits the highest total number of individuals without a bank account (exceeding 7,500), followed closely by **Tanzania** (nearly 6,000).
+
+####  📈 2.2 Bank Account Rate by Country (%)
+
+| Country | No (%) | Yes (%) |
+| :--- | :---: | :---: |
+| **Kenya** | 74.94% | 25.06% |
+| **Rwanda** | 88.52% | 11.48% |
+| **Tanzania** | 90.78% | 9.22% |
+| **Uganda** | 91.36% | 8.64% |
 
 
 
+#### 2.3 Financial Inclusion Rate by Country (%)
+![ Financial Inclusion Rate by Country (%)](https://github.com/user-attachments/assets/9968daa8-e529-4091-878e-85528a1b3b73)
 
+#### Key Takeaways:
+* **Kenya** stands out significantly, leading financial inclusion with a **25.06%** bank account ownership rate.
+* **Rwanda** sits in the middle with a moderate inclusion rate of **11.48%**.
+* **Tanzania** (**9.22%**) and **Uganda** (**8.64%**) register the lowest inclusion levels, both remaining under the 10% threshold.
+
+
+
+#### 👥 3.1 Bank Account Ownership by Gender
+
+![Bank Account Ownership by Gender](https://github.com/user-attachments/assets/244412e2-9ddd-4887-b7bd-c1a5c842fd69)
+
+
+**Key Takeaways**
+- Pronounced Unbanked Disparity: The absolute volume of unbanked individuals is significantly higher among females than males, with unbanked females exceeding 12,000 compared to under 8,000 for males.
+- Marginal Inclusion Edge: Despite a smaller total sample size in the dataset, males maintain a slight absolute edge in successfully holding a bank account.
+- Systemic Gender Gap: This visualization underscores a clear gender-based inclusion gap, highlighting that women face disproportionate socioeconomic or structural barriers to accessing traditional banking systems in East Africa.
 
 
 
