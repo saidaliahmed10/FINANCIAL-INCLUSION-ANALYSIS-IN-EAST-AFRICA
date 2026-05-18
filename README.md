@@ -135,8 +135,60 @@ while the remaining **14.11%** (3,296 individuals) do.
 
 
 
+#### 3.2 Cell Phone Access IN East Africa 
+
+![Image](https://github.com/user-attachments/assets/c49c66e0-cb4f-41d3-8182-85b3e8534fb6)
 
 
+**Key Takeaways**
+
+- High Overall Access: Across the region, significantly more people have cell phone access than those who do not.
+
+- Rwanda Leads: Rwanda has the highest number of individuals with cell phone access, exceeding 7,000.
+
+- Tanzania's Gap: Tanzania has the highest number of people without cell phone access compared to the other nations.
+
+
+#### 3.4 Bank Account Ownership According To The Level Of Education
+
+![Bank Account Ownership According To The Level Of Education](https://github.com/user-attachments/assets/ef4dc18d-02ef-45eb-acfe-868d363da01a)
+  
+
+
+**Key Takeaways**
+
+- Education Level Predicts Inclusion: Bank account ownership rates scale heavily with higher education; it is nearly non-existent for individuals with no formal education, but reaches roughly a 50% split for those with tertiary education.
+
+- Massive Unbanked Base in Primary/Secondary Education: The largest volume of unbanked individuals is heavily concentrated in the "Primary education" segment (exceeding 11,000) followed by "Secondary education."
+
+- Vocational and Tertiary Parity: "Vocational/Specialised training" and "Tertiary education" are the only categories where the number of individuals with a bank account matches or exceeds the number of those without one.
+
+### 3.5 Relationship Between Type of Job and Bank Account Ownership
+
+
+![Relationship Between Type of Job and Bank Account Ownership](https://github.com/user-attachments/assets/ae097187-bc04-48cc-bcd9-4efead5458f2)
+
+
+**Key Takeaways**
+
+Formal Employment Highest Penetration: "Formally employed Government" and "Formally employed Private" are the only sectors where bank account ownership ("Yes") meets or exceeds the unbanked population.
+
+Massive Informal Sector Gap: The largest volumes of unbanked individuals are heavily concentrated in informal roles, specifically "Self employed" (over 5,500), "Informally employed" (around 5,000), and "Farming and Fishing" (nearly 5,000).
+
+Vulnerable Groups Lack Access: Categories dependent on alternative cash flows—such as "Remittance Dependent," "Other Income," and "No Income"—show critically low levels of traditional bank account ownership.
+
+
+### 9️⃣ Recommendations
+
+- Central Banks & Financial Regulatory Authorities: To implement the tiered KYC (Know Your Customer) frameworks and relax documentation requirements for low-income or rural individuals.
+
+- Commercial Banks & FinTech Companies: To design the cash-flow-driven micro-savings/credit products and build the inclusive, low-literacy user interfaces.
+
+- Telecommunication Companies (Telcos): To partner with banks on seamless, low-cost mobile wallet interoperability, bridging the gap between cell phone ownership and bank account access.
+
+- International Development Agencies & NGOs: To fund and deploy the gender-intentional financial literacy programs and micro-grants aimed at closing the gender gap.
+
+- Ministries of Finance & Economic Planning (of Kenya, Rwanda, Tanzania, and Uganda): To integrate these financial inclusion strategies into national development goals for poverty reduction and economic growth.
 
 
 
