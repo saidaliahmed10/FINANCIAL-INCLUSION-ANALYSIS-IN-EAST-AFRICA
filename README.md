@@ -3,30 +3,29 @@
 ### 🌍 Project Overview
 
 
-This project analyzes financial inclusion in East Africa using survey data from Kenya, Rwanda, Tanzania, and Uganda to understand factors influencing bank account ownership.
-It explores socio-economic and demographic patterns to identify barriers to financial access in the region.
+- This project analyzes financial inclusion in East Africa using survey data from Kenya, Rwanda, Tanzania, and Uganda to understand factors influencing bank account ownership.
+- It explores socio-economic and demographic patterns to identify barriers to financial access in the region.
 
 ### 1️⃣ Problem Statement
 Problem Statement:
-Financial inclusion plays an important role in economic growth and poverty reduction. 
-Despite this, many individuals in East African countries such as Kenya, Rwanda, Tanzania, and Uganda still lack access to formal banking services. T
-his project seeks to analyze socio-economic and demographic factors affecting bank account ownership using data from 23,524 individuals, with the goal of identifying the key barriers to financial inclusion in East Africa.
+- Financial inclusion plays an important role in economic growth and poverty reduction. 
+Despite this, many individuals in East African countries such as Kenya, Rwanda, Tanzania, and Uganda still lack access to formal banking services.
+- This project is about to  analyze socio-economic and demographic factors affecting bank account ownership using data from 23,524 individuals, with the goal of identifying the key barriers to financial inclusion in East Africa.
 
 
 ### 2️⃣ Project Objectives
-Main Objective
-
-To analyze the factors influencing financial inclusion and bank account ownership among individuals in East Africa.
-Specific Objectives
-To understand and explore the Financial Access in East Africa dataset.
-To identify the key socio-economic and demographic factors affecting access to bank accounts.
-To compare financial inclusion patterns across Kenya, Rwanda, Tanzania, and Uganda.
+Main Objective:
+- To analyze the factors influencing financial inclusion and bank account ownership among individuals in East Africa.
+Specific Objectives:
+- To understand and explore the Financial Access in East Africa dataset.
+- To identify the key socio-economic and demographic factors affecting access to bank accounts.
+- To compare financial inclusion patterns across Kenya, Rwanda, Tanzania, and Uganda.
 
 
 ### 3️⃣ Data Source 
-The dataset used in this project is the Financial Access in East Africa dataset, obtained from survey data collected across four East African countries: Kenya, Rwanda, Tanzania, and Uganda.
+- The dataset used in this project is the Financial Access in East Africa dataset, obtained from survey data collected across four East African countries: Kenya, Rwanda, Tanzania, and Uganda.
 
-The dataset contains socio-economic and demographic information used to analyze financial inclusion and access to bank accounts in East Africa.
+- The dataset contains socio-economic and demographic information used to analyze financial inclusion and access to bank accounts in East Africa.
 Download the dataset from Kaggle [download here the dataset](https://www.kaggle.com/datasets/sarahmabrouk/financial-inclusion-in-africa)
 
 ### 4️⃣ Variables / Dataset Features
@@ -93,7 +92,7 @@ while the remaining **14.11%** (3,296 individuals) do.
 ![Bank Account Ownership Distribution](https://github.com/user-attachments/assets/719b8874-df7b-4dfa-8297-6d37fed6b9dc)
 
 
-#### 1.3  Visualization of Bank Account Ownership by Country 
+#### 1.4  Visualization of Bank Account Ownership by Country 
 
 ![Bank Account Ownership Distribution](https://github.com/user-attachments/assets/a09bd820-e0fc-4161-96fe-4d61f1e951f2)
 #### Key Observations:
@@ -102,7 +101,7 @@ while the remaining **14.11%** (3,296 individuals) do.
 * **Lowest Account Ownership:** **Uganda** contains the smallest overall sample in this visualization, with the lowest number of banked individuals.
 * **Largest Unbanked Population:** **Rwanda** exhibits the highest total number of individuals without a bank account (exceeding 7,500), followed closely by **Tanzania** (nearly 6,000).
 
-####  📈 2.2 Bank Account Rate by Country (%)
+####  📈 2.1 Bank Account Rate by Country (%)
 
 | Country | No (%) | Yes (%) |
 | :--- | :---: | :---: |
@@ -113,7 +112,7 @@ while the remaining **14.11%** (3,296 individuals) do.
 
 
 
-#### 2.3 Financial Inclusion Rate by Country (%)
+#### 2.2 Financial Inclusion Rate by Country (%)
 ![ Financial Inclusion Rate by Country (%)](https://github.com/user-attachments/assets/9968daa8-e529-4091-878e-85528a1b3b73)
 
 #### Key Takeaways:
